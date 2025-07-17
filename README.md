@@ -1,11 +1,11 @@
 # Banking Analysis Dashboard
 
-![Dashboard Preview](<img width="1161" height="640" alt="Screenshot 2025-07-17 140552" src="https://github.com/user-attachments/assets/542e1f76-ae5f-4097-be18-b5e15dbfd276" />
+<img width="1161" height="640" alt="Screenshot 2025-07-17 140552" src="https://github.com/user-attachments/assets/542e1f76-ae5f-4097-be18-b5e15dbfd276" />
 <img width="1163" height="652" alt="Screenshot 2025-07-17 140701" src="https://github.com/user-attachments/assets/32f5d5fd-9abb-42c3-ac0a-c1e510a90665" />
 <img width="1163" height="647" alt="Screenshot 2025-07-17 140732" src="https://github.com/user-attachments/assets/14c49273-ae9e-41e5-b772-9e16a5b8427c" />
 <img width="1160" height="647" alt="Screenshot 2025-07-17 140833" src="https://github.com/user-attachments/assets/f34cf1f5-c2e8-4bb2-b910-4d47ee37f091" />
 
-) <!-- Replace with actual screenshot -->
+<!-- Replace with actual screenshot -->
 
 A comprehensive banking analysis solution that transforms raw client data into actionable insights through data cleaning, exploratory analysis, and interactive visualizations.
 
